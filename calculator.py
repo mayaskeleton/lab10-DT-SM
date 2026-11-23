@@ -1,4 +1,4 @@
-# https://github.com/mayaskeleton/DT-SM
+# https://github.com/mayaskeleton/lab10-DT-SM
 import math
 
 def square_root(a):
